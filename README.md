@@ -2,7 +2,7 @@
 
 Interview Task for the Position of Software Engineer(Flutter).
 I have tried my best to get things right . If you have any questions don't hesitate to ask .
-Thanks - Md. Mehedi Hasan. Clone from there: https://github.com/mehedimithu/task.git
+Thanks - Md. Mehedi Hasan. Clone from there: https://github.com/mehedimithu/interview_task.git
 
 ## Getting Started
 
