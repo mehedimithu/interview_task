@@ -91,7 +91,7 @@ class _HomePageState extends State<HomePage> {
                   children: [
                     Text('Md.Mehedi Hasan', style: TextStyle(color: Colors.white, fontSize: 14),),
                     SizedBox(height: 10),
-                    Text('github.com/mehedimithu/task.git', style: TextStyle(color: Colors.white, fontSize: 13),),
+                    Text('github.com/mehedimithu', style: TextStyle(color: Colors.white, fontSize: 13),),
                     SizedBox(height: 5),
                     Text('mhasan172036@mscse.uiu.ac.bd', style: TextStyle(color: Colors.white, fontSize: 14),),
 
